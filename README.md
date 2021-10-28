@@ -2,4 +2,4 @@
 - 👀 I’m interested in Code & Powerlifting
 - 🌱 I’m currently learning life
 - 💞️ I’m looking to collaborate on code
-- 📫 How to reach me (zpirit.no)[https://zpirit.no]
+- 📫 How to reach me [zpirit.no](https://zpirit.no)
